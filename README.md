@@ -56,32 +56,11 @@ Unlike regular recommendations, which primarily answer *“What games might you 
 ### Core Features
 
 **1. Mood-Based Discovery**
-
-Allow users to select an experience they want, such as:
-- Relax
-- Competitive
-- Story-driven
-- Something Different
-
 **2. Different From Your Usual**
-
-Introduce relevant games outside a user's typical playing patterns to encourage exploration without sacrificing relevance.
-
 **3. Indie & Hidden Gems**
-
-Improve the visibility of lesser-known games that demonstrate quality and relevance to the user's interests.
-
 **4. Short Discovery Cards**
-
-Present a small, curated set of games to reduce information overload and make evaluation easier.
-
 **5. Why This Game?**
-
-Explain why a game is recommended using relevant context, such as genre preferences, previously played games, or the selected mood.
-
 **6. Reduce Home Screen Noise**
-
-Keep the experience focused by prioritizing useful discovery information over excessive content.
 
 ## Product Prioritization
 
