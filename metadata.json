@@ -1,0 +1,6 @@
+{
+  "name": "Steam Desktop Store UI",
+  "description": "Authentic Steam desktop client interface recreation featuring Store, Library, Game detail pages, featured carousel, category filtering, search, and wishlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
